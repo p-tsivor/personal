@@ -1,0 +1,25 @@
+<!doctype html >
+<html lang = "en-US">
+  <head>
+    <meta
+      name = "Della"
+      content = "lovers past and present" 
+      charset = "utf-8"/>
+    <!--The link below is to create a url icon in the page-->
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <title>My lovers</title>
+  </head>
+  <body>
+    <h1> Ex-lover #1: 이현우</h1>
+    <p>This page will be dedicated to my ex-lover, who will always remain in  my heart, Lee Hyun-woo.</p>
+    <img src = "https://img.kpopmap.com/780x0/2023/09/lee-hyunwoo-090723-2.jpg"
+  alt = "Lee Hyun-woo image" width = 100/>
+    <p>Do you like Lee Hyunwoo?</p>
+    <button>Yes</button> <button disabled> No</button>
+    <p> Please enter reasons why you like Lee Hyunwoo</p>
+    <input title= "reason" type = "text"/> 
+    <!--I'm trying to get this to grab the input "console.log(input)"" -->
+    <p>If you'd like to learn more about Lee Hyunwoo as an actor, please visit <a href = "https://mydramalist.com/people/1487-lee-hyun-woo" title = "Lee Hyunwoo's Dramalist page">here</a></p>
+  </body>
+    
+</html>
