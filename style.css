@@ -1,0 +1,36 @@
+nav {
+  border-bottom: 1px solid black;
+  padding-bottom: 2px;
+}
+
+body{
+  background-color: skyblue;
+}
+
+.lovers ol {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.lover {
+  display: inline-block;
+  background-color: plum;
+  padding: 100;
+}
+
+.lover a::after {
+  display: inline-block;
+  color: #000;
+  content: '>';
+  font-size: 80%;
+  font-weight: bold;
+  padding: 0 3px;
+}
+
+.head{
+  margin-right: 50px;
+}
+
+.foot{
+  font-size: 10px;
+}
